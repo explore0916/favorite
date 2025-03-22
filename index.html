@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>出海工具导航</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- 引入字体图标 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- 顶部导航栏 -->
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">
+                <i class="fas fa-compass"></i>
+                出海工具导航
+            </h1>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索工具名称或描述...">
+                <button type="button"><i class="fas fa-search"></i></button>
+            </div>
+            <div class="header-actions">
+                <button id="showFavorites" class="show-favorites">
+                    <i class="fas fa-star"></i>
+                    <span>收藏夹</span>
+                </button>
+                <button id="themeToggle" class="theme-toggle">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- 主要内容区 -->
+    <main class="main">
+        <div class="container">
+            <!-- 使用说明 -->
+            <div class="usage-guide">
+                <h2><i class="fas fa-info-circle"></i> 使用说明</h2>
+                <ul>
+                    <li><i class="fas fa-search"></i> 使用搜索框快速查找工具</li>
+                    <li><i class="fas fa-filter"></i> 点击分类标签筛选工具</li>
+                    <li><i class="fas fa-star"></i> 点击星标收藏常用工具</li>
+                    <li><i class="fas fa-moon"></i> 点击月亮图标切换暗色模式</li>
+                </ul>
+            </div>
+
+            <!-- 分类导航 -->
+            <nav class="category-nav">
+                <h2><i class="fas fa-tags"></i> 工具分类</h2>
+                <ul id="categoryList">
+                    <!-- 分类将通过JavaScript动态生成 -->
+                </ul>
+            </nav>
+
+            <!-- 工具展示区 -->
+            <div class="tools-section">
+                <h2 id="toolsTitle"><i class="fas fa-tools"></i> 所有工具</h2>
+                <div class="tools-grid" id="toolsGrid">
+                    <!-- 工具卡片将通过JavaScript动态生成 -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- 底部区域 -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <p><i class="fas fa-code"></i> 由 AI 驱动的工具导航站</p>
+                    <p><i class="fas fa-heart"></i> 专注于帮助出海从业者提高工作效率</p>
+                </div>
+                <p class="copyright">&copy; 2024 出海工具导航. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 加载提示 -->
+    <div id="loading" class="loading">
+        <div class="spinner"></div>
+        <p>加载中...</p>
+    </div>
+
+    <!-- JavaScript文件 -->
+    <script src="js/main.js"></script>
+</body>
+</html> 
