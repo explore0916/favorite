@@ -5,6 +5,7 @@ let currentCategory = 'all';
 let favorites = new Set(JSON.parse(localStorage.getItem('favorites') || '[]'));
 let showingFavorites = false;
 
+// -----
 // DOM 元素
 const toolsGrid = document.getElementById('toolsGrid');
 const categoryList = document.getElementById('categoryList');
@@ -21,7 +22,7 @@ async function init() {
         loading.style.display = 'flex';
         
         // 读取数据
-        const response = await fetch('/data/tools.json');
+        const response = await fetch('./data/tools.json');
         tools = await response.json();
         
         // 提取分类
