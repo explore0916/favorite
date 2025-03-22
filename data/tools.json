@@ -1,0 +1,450 @@
+[
+  {
+    "id": "1",
+    "name": "谷歌下拉词",
+    "url": "https://www.searchsuggest.tips/?keyword=",
+    "description": "查看谷歌搜索框的智能提示词，了解用户搜索意图和热门关键词",
+    "category": "需求调研"
+  },
+  {
+    "id": "2",
+    "name": "Toolify 榜单",
+    "url": "https://www.toolify.ai/Best-AI-Tools-revenue",
+    "description": "查看AI工具的收入排行榜，发现最受欢迎的AI产品",
+    "category": "需求调研"
+  },
+  {
+    "id": "3",
+    "name": "AI 导航站的需求列表",
+    "url": "https://theresanaiforthat.com/requests",
+    "description": "查看用户对AI工具的真实需求和反馈，发现市场机会",
+    "category": "需求调研"
+  },
+  {
+    "id": "4",
+    "name": "关键词难度",
+    "url": "https://ahrefs.com/keyword-difficulty",
+    "description": "分析关键词的竞争难度，帮助选择合适的SEO关键词",
+    "category": "需求调研"
+  },
+  {
+    "id": "5",
+    "name": "域名查询",
+    "url": "https://leandomainsearch.com/",
+    "description": "快速查找可注册的域名，支持智能域名推荐",
+    "category": "上站必备"
+  },
+  {
+    "id": "6",
+    "name": "域名查询",
+    "url": "https://query.domains/",
+    "description": "实时查询域名可用性，支持批量查询",
+    "category": "上站必备"
+  },
+  {
+    "id": "7",
+    "name": "域名查询",
+    "url": "https://instantdomainsearch.com/?q=",
+    "description": "即时域名搜索，实时显示域名可用性和价格",
+    "category": "上站必备"
+  },
+  {
+    "id": "8",
+    "name": "域名注册",
+    "url": "spaceship.com",
+    "description": "现代化的域名注册平台，提供优惠的域名价格",
+    "category": "上站必备"
+  },
+  {
+    "id": "9",
+    "name": "域名注册",
+    "url": "porkbun.com",
+    "description": "价格实惠的域名注册商，经常有特价活动",
+    "category": "上站必备"
+  },
+  {
+    "id": "10",
+    "name": "域名注册",
+    "url": "namecheap.com",
+    "description": "老牌可靠的域名注册商，提供全面的域名服务",
+    "category": "上站必备"
+  },
+  {
+    "id": "11",
+    "name": "代码&网站托管",
+    "url": "github.com",
+    "description": "最流行的代码托管平台，支持Pages静态网站托管",
+    "category": "上站必备"
+  },
+  {
+    "id": "12",
+    "name": "代码&网站托管",
+    "url": "cloudflare.com",
+    "description": "提供CDN、DNS和网站托管服务，性能优秀且有免费套餐",
+    "category": "上站必备"
+  },
+  {
+    "id": "13",
+    "name": "代码&网站托管",
+    "url": "vercel.com",
+    "description": "专注于前端项目部署的平台，自动化部署且有免费套餐",
+    "category": "上站必备"
+  },
+  {
+    "id": "14",
+    "name": "数据后台",
+    "url": "https://search.google.com/search-console",
+    "description": "Google Search Console，监控网站在谷歌的收录和搜索表现",
+    "category": "上站必备"
+  },
+  {
+    "id": "15",
+    "name": "数据后台",
+    "url": "https://analytics.google.com/analytics/web/#",
+    "description": "Google Analytics，追踪网站访问数据和用户行为",
+    "category": "上站必备"
+  },
+  {
+    "id": "16",
+    "name": "数据后台",
+    "url": "https://www.bing.com/webmasters/submiturl",
+    "description": "必应网站管理员工具，提交网站到必应搜索引擎",
+    "category": "上站必备"
+  },
+  {
+    "id": "17",
+    "name": "查看流量和网页关键词",
+    "url": "aitdk.com",
+    "description": "分析网站流量来源和关键词排名情况",
+    "category": "竞品调研"
+  },
+  {
+    "id": "18",
+    "name": "查看外链",
+    "url": "https://ahrefs.com/free-seo-tools",
+    "description": "分析网站的外部链接情况，发现潜在的链接机会",
+    "category": "竞品调研"
+  },
+  {
+    "id": "19",
+    "name": "查看网站关键词",
+    "url": "semrush.com",
+    "description": "专业的SEO工具，分析网站关键词排名和流量",
+    "category": "竞品调研"
+  },
+  {
+    "id": "20",
+    "name": "⚡Dynamic blog based on Cloudflare Pages",
+    "url": "https://github.com/openRin/Rin",
+    "description": "基于Cloudflare全家桶的动态博客模板，包含Pages、Workers、D1和R2",
+    "category": "上站模板"
+  },
+  {
+    "id": "21",
+    "name": "Next.js 15 Boilerplate",
+    "url": "https://github.com/ixartz/Next-js-Boilerplate",
+    "description": "Next.js 15的完整启动模板，支持App Router和Page Router",
+    "category": "上站模板"
+  },
+  {
+    "id": "22",
+    "name": "SaaS Boilerplate with Next.js",
+    "url": "https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template",
+    "description": "基于Next.js的SaaS模板，集成Tailwind CSS和Shadcn UI",
+    "category": "上站模板"
+  },
+  {
+    "id": "23",
+    "name": "Astro Portfolio Template",
+    "url": "https://github.com/weijunext/landing-page-boilerplate",
+    "description": "响应式的Astro博客和作品集模板，性能优秀",
+    "category": "上站模板"
+  },
+  {
+    "id": "24",
+    "name": "Landing Page Boilerplate",
+    "url": "https://github.com/ai-aigc-studio/Viggle-AI-WebUI",
+    "description": "通用的落地页模板，适合各类项目和营销活动",
+    "category": "上站模板"
+  },
+  {
+    "id": "25",
+    "name": "周刊博客模板",
+    "url": "https://github.com/weijunext/new-blog",
+    "description": "适合发布周刊内容的博客模板，简洁美观",
+    "category": "上站模板"
+  },
+  {
+    "id": "26",
+    "name": "API收费博客",
+    "url": "https://github.com/weijunext/gapis.money",
+    "description": "集成支付功能的API收费博客系统",
+    "category": "上站模板"
+  },
+  {
+    "id": "27",
+    "name": "项目截图工具",
+    "url": "https://github.com/weijunext/smart-excel-ai",
+    "description": "自动抓取ProductHunt、YC等平台的新项目截图",
+    "category": "上站模板"
+  },
+  {
+    "id": "28",
+    "name": "NextJS VPS部署示例",
+    "url": "https://github.com/ashleyrudland/nextjs_vps",
+    "description": "在VPS上部署Next.js项目的完整示例",
+    "category": "上站模板"
+  },
+  {
+    "id": "29",
+    "name": "AI换发型工具",
+    "url": "https://github.com/Pwntus/change-hairstyle-ai",
+    "description": "使用AI技术快速预览不同发型效果",
+    "category": "上站模板"
+  },
+  {
+    "id": "30",
+    "name": "视频绿幕工具",
+    "url": "https://github.com/replicate/green-screen-creator",
+    "description": "自动跟踪视频中的物体并添加绿幕背景",
+    "category": "上站模板"
+  },
+  {
+    "id": "31",
+    "name": "开源SaaS启动器",
+    "url": "https://github.com/wasp-lang/open-saas/",
+    "description": "功能完整的React和Node.js SaaS项目模板",
+    "category": "上站模板"
+  },
+  {
+    "id": "32",
+    "name": "Svelte SaaS模板",
+    "url": "https://github.com/ocluf/justship",
+    "description": "基于Svelte 5的完整SaaS模板，包含数据库、认证等功能",
+    "category": "上站模板"
+  },
+  {
+    "id": "33",
+    "name": "Nuxt3 SaaS模板",
+    "url": "https://github.com/JavascriptMick/supanuxt-saas",
+    "description": "集成Supabase、Stripe等服务的Nuxt3 SaaS启动模板",
+    "category": "上站模板"
+  },
+  {
+    "id": "34",
+    "name": "SaasFly模板",
+    "url": "https://github.com/saasfly/saasfly",
+    "description": "快速启动SaaS项目的模板，支持bun create命令创建",
+    "category": "上站模板"
+  },
+  {
+    "id": "35",
+    "name": "ShipFast TypeScript模板",
+    "url": "https://github.com/mundane799699/xlike-web",
+    "description": "基于TypeScript的完整SaaS项目模板",
+    "category": "上站模板"
+  },
+  {
+    "id": "36",
+    "name": "FRE123导航模板",
+    "url": "https://github.com/fre123-com/fre123-nav/",
+    "description": "开源的导航网站模板，一键搭建个性化导航站",
+    "category": "上站模板"
+  },
+  {
+    "id": "37",
+    "name": "A crowdsourced list of the best open-source projects on the internet. Built with the Dub TypeScript SDK.",
+    "url": "https://github.com/dubinc/oss-gallery?ref=ossgallery",
+    "description": "",
+    "category": "导航站模板"
+  },
+  {
+    "id": "38",
+    "name": "❤️静态响应式网址导航网站 - webstack.cc",
+    "url": "https://github.com/WebStackPage/WebStackPage.github.io",
+    "description": "",
+    "category": "导航站模板"
+  },
+  {
+    "id": "39",
+    "name": "One-click to deploy your own ai tools directory with the open source web-ui",
+    "url": "https://github.com/6677-ai/tap4-ai-webui",
+    "description": "",
+    "category": "导航站模板"
+  },
+  {
+    "id": "40",
+    "name": "A Third-party GPTs store",
+    "url": "https://github.com/all-in-aigc/gpts-works",
+    "description": "",
+    "category": "导航站模板"
+  },
+  {
+    "id": "41",
+    "name": "A UI Lib Picker for Vue 3 / Nuxt 3",
+    "url": "https://github.com/ddahan/ui-libs",
+    "description": "",
+    "category": "导航站模板"
+  },
+  {
+    "id": "42",
+    "name": "Public AI tools data for website ",
+    "url": "https://github.com/DokeyAI/dokeyai-data",
+    "description": "",
+    "category": "导航站模板"
+  },
+  {
+    "id": "43",
+    "name": "Public AI tools data for website ",
+    "url": "https://dokeyai.com",
+    "description": "",
+    "category": "导航站模板"
+  },
+  {
+    "id": "44",
+    "name": "VERCEL 模板中心也有非常多有价值的可以看看尝试着套模板做一些",
+    "url": "https://vercel.com/templates ",
+    "description": "",
+    "category": "导航站模板"
+  },
+  {
+    "id": "45",
+    "name": "Reddit 子社区",
+    "url": "https://liberating-doll-b8a.notion.site/Reddit-1a8e8aed91b18021839ecba8b74e530b",
+    "description": "",
+    "category": "建站资讯"
+  },
+  {
+    "id": "46",
+    "name": "谷歌搜索中心：SEO 基础知识",
+    "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=zh-cn",
+    "description": "",
+    "category": "建站资讯"
+  },
+  {
+    "id": "47",
+    "name": "Top Trending Websites from Ahrefs",
+    "url": "https://ahrefs.com/websites#trending",
+    "description": "",
+    "category": "建站资讯"
+  },
+  {
+    "id": "48",
+    "name": "AI VIDEO SAAS TOOL",
+    "url": "https://docs.google.com/spreadsheets/d/1QOdqq9KbjQj1JZO43vc1pir2rnEEsMUXzTDATrOCn2k/edit?gid=0#gid=0",
+    "description": "",
+    "category": "建站资讯"
+  },
+  {
+    "id": "49",
+    "name": "Starter Story Premium Solopreneur Report 2.0",
+    "url": "https://docs.google.com/spreadsheets/d/1eUni44pIURML2VWFFXKzNmm-WKuuam9_ynr5Fo_Q74M/edit?gid=83151001#gid=83151001",
+    "description": "",
+    "category": "建站资讯"
+  },
+  {
+    "id": "50",
+    "name": "Those making $500/month on side projects in 20xx",
+    "url": "https://www.500mrr.com/",
+    "description": "",
+    "category": "建站资讯"
+  },
+  {
+    "id": "51",
+    "name": "Ask HN: Those making $500/month on side projects in 2024 – Show and tell",
+    "url": "https://news.ycombinator.com/item?id=42373343",
+    "description": "",
+    "category": "建站资讯"
+  },
+  {
+    "id": "52",
+    "name": "不要轻易称自己为独立开发者",
+    "url": "https://scys.com/articleDetail/xq_topic/1525814845844482",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "53",
+    "name": "AI 编程赛道第一课：Build a business ， not an App",
+    "url": "https://scys.com/articleDetail/xq_topic/2858151258225521",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "54",
+    "name": "只靠想法就能赚钱的时代到来了！",
+    "url": "https://scys.com/articleDetail/xq_topic/4848511545851418",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "55",
+    "name": "翻石头，是独立开发者的日常修行。",
+    "url": "https://scys.com/articleDetail/xq_topic/5121548228815414",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "56",
+    "name": "用 AI 自学编程的最好时机到来了",
+    "url": "https://scys.com/articleDetail/xq_topic/5122484888125484",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "57",
+    "name": "善用黑科技工具，做十倍速全栈程序员",
+    "url": "https://scys.com/articleDetail/xq_topic/188545124485142",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "58",
+    "name": "什么产品好做？三个一",
+    "url": "https://scys.com/articleDetail/xq_topic/811452228445512",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "59",
+    "name": "写给独立开发者：如何快速做出产品 MVP",
+    "url": "https://scys.com/articleDetail/xq_topic/814822455488822",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "60",
+    "name": "如何获得产品 idea",
+    "url": "https://scys.com/articleDetail/xq_topic/212485241245121",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "61",
+    "name": "完美的创业项目，是怎么被想出来的？",
+    "url": "https://scys.com/articleDetail/xq_topic/415414825512158",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "62",
+    "name": "判断项目行不行的极简方法",
+    "url": "https://scys.com/articleDetail/xq_topic/184214255522812",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "63",
+    "name": "2021 年 Google SEO 最关键有效的技巧· 站内",
+    "url": "https://scys.com/articleDetail/xq_topic/218514241452421",
+    "description": "",
+    "category": "生财精华帖"
+  },
+  {
+    "id": "64",
+    "name": "0 资源，做出 3 个日 UV 过十万、7-8 个日 UV 过万的网站，分享我获得无限网站流量的秘籍",
+    "url": "https://scys.com/articleDetail/xq_topic/182888851425182",
+    "description": "",
+    "category": "生财精华帖"
+  }
+]
