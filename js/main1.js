@@ -21,7 +21,7 @@ async function init() {
         loading.style.display = 'flex';
         
         // 读取数据
-        const response = await fetch('/data/tools.json');
+        const response = await fetch('data/tools.json');
         tools = await response.json();
         
         // 提取分类
